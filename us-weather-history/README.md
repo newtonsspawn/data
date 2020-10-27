@@ -1,16 +1,16 @@
-### U.S. weather history visualization
+# U.S. Weather History
 
-The raw data and code behind the story [What 12 Months Of Record-Setting Temperatures Looks Like Across The U.S.](http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperatures-looks-like-across-the-u-s/)
+This folder contains data and code behind the story [What 12 Months Of Record-Setting Temperatures Looks Like Across The U.S.](http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperatures-looks-like-across-the-u-s/).
 
-#### Code
+## Code
 
 Code file | Description
 ---|---------
-`wunderground_scraper.py` | Downloades weather data web pages from Weather Underground
+`wunderground_scraper.py` | Downloads weather data web pages from Weather Underground
 `wunderground_parser.py` | Parses the weather data from Weather Underground into a flat CSV file
 `visualize_weather.py` | Creates the visualization of the weather data
 
-#### Data
+## Data
 
 Column | Description
 ---|---------
